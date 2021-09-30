@@ -1,3 +1,8 @@
+![Chae-EunJeong's github stats](https://github-readme-stats.vercel.app/api?username=Chae-EunJeong&show_icons=true&theme=buefy)
+
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=procdso)](https://solved.ac/procdso)
+
 - 👋 Hi, I’m @Chae-EunJeong
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
